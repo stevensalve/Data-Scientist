@@ -9,6 +9,21 @@
             </li> 
             <li>
                   Healthcare cost analysis
-            </li>            
+            </li>
+            <li>
+                  Analysis of Sales Report of a Clothes Manufacturing Outlet
+            </li>
+            <li>
+                  College Admission
+            </li>
+            <li>
+                  Comcast Telecom Consumer Complaints.
+            </li>
+            <li>
+                  High value customers identification for an E-Commerce company
+            </li>
+            <li>
+                 Web Data Analysis
+            </li>
         </ul>
 
