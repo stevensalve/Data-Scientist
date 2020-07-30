@@ -1,4 +1,13 @@
-<div _ngcontent-yjv-c50="" class="tab-content ng-star-inserted" id="project-tab-content"><div _ngcontent-yjv-c50="" class="project-info scrolly" id="278"><div _ngcontent-yjv-c50="" class="project-name">Analysis of Sales Report of a Clothes Manufacturing Outlet</div><!----><div _ngcontent-yjv-c50="" class="project-count ng-star-inserted"><p _ngcontent-yjv-c50="">Project 1 <a _ngcontent-yjv-c50="" class="lms-icon Gradable" data-toggle="tooltip" title="The project will be assessed by Simplilearn team."></a></p></div><!----><!----><!----><!----><div _ngcontent-yjv-c50="" class="ng-star-inserted"><div _ngcontent-yjv-c50="" class="project-information"><div _ngcontent-yjv-c50="" class="project-description sl-ck-editor"><p _ngcontent-yjv-c50="">DESCRIPTION</p><div _ngcontent-yjv-c50=""><p><strong>Background and Objective:</strong><br>
+<div _ngcontent-yjv-c50="" class="tab-content ng-star-inserted" id="project-tab-content"><div _ngcontent-yjv-c50="" class="project-info scrolly" id="278">
+
+<div _ngcontent-yjv-c50="" class="project-name">Analysis of Sales Report of a Clothes Manufacturing Outlet</div>
+<!----><div _ngcontent-yjv-c50="" class="project-count ng-star-inserted">
+<p _ngcontent-yjv-c50="">Project 1 <a _ngcontent-yjv-c50="" class="lms-icon Gradable" data-toggle="tooltip" title="The project will be assessed by Simplilearn team.">
+</a></p></div>
+
+
+<div _ngcontent-yjv-c50="" class="ng-star-inserted"><div _ngcontent-yjv-c50="" class="project-information">
+<div _ngcontent-yjv-c50="" class="project-description sl-ck-editor"><p _ngcontent-yjv-c50="">DESCRIPTION</p><div _ngcontent-yjv-c50=""><p><strong>Background and Objective:</strong><br>
 A high-end fashion retail store is looking to expand its products. It wants to understand the market and find the current trends in the industry. It has a database of all products with attributes, such as style, material, season, and the sales of the products over a period of two months.</p>
 
 <p><strong>Domain:</strong> Retail</p>
